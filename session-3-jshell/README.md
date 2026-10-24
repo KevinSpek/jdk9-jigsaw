@@ -448,7 +448,7 @@ Try some more JShell examples:
 - https://www.infoq.com/articles/Java9-New-HTTP-2-and-REPL (see towards the bottom of the blog post)
 
 Some online Java REPLs to play with:
-- http://www.javarepl.com/term.html
+- https://coddy.tech/playground/java
 - https://github.com/albertlatacz/java-repl
 - https://repl.it/languages/java
 - https://teamtreehouse.com/community/installing-java-repl
